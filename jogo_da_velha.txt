@@ -3,3 +3,5 @@
  x | o | o
 -----------
  o | x | x
+
+ deu velha kkkkkkk

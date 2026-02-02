@@ -1,7 +1,7 @@
- x | o | x
+ - | - | -
 -----------
- x | o | o
+ - | - | -
 -----------
- o | x | x
+ - | - | -
 
- deu velha kkkkkkk
+tentativa 1 = deu velha kkkkkkk

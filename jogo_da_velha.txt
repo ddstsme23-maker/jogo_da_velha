@@ -2,6 +2,6 @@
 -----------
  - | x | -
 -----------
- x | - | -
+ x | o | -
 
 tentativa 1 = deu velha kkkkkkk

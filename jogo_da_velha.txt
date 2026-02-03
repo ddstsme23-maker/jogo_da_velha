@@ -1,8 +1,9 @@
- o | x | o
+ - | - | x
 -----------
- x | x | o
+ - | - | -
 -----------
- x | o | x 
+ - | - | - 
 
 tentativa 1 = deu velha kkkkkkk
 tentativa 2 = desisto ;-;
+tentativa 3
